@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Bert S. Turner Department of Construction Management, College of Engineering, Louisiana State University 
 
 profile:
   align: right
